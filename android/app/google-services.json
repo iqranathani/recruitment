@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344588383635",
+    "firebase_url": "https://recruitment-2e980.firebaseio.com",
+    "project_id": "recruitment-2e980",
+    "storage_bucket": "recruitment-2e980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344588383635:android:2c722ac68f2283ed01a466",
+        "android_client_info": {
+          "package_name": "com.recruitment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344588383635-07d10nonokhs089qugqap0sf7njaugu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMizilTdGcIewXfRlzzBLwnO8u4AJj-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344588383635-07d10nonokhs089qugqap0sf7njaugu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
